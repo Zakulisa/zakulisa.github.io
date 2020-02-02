@@ -6,9 +6,9 @@ body {
     line-height: 1.5;
     padding-top: 32px;
     padding-bottom: 32px;
+    background-color: rgb(196, 94, 255);
   }
   #header {
-    background-color: rgb(196, 94, 255);
     text-align: center;
     color: rgb(196, 94, 255);
     text-shadow: 5px 2px 3px red, 7px 4px 3px orange, 9px 6px 3px yellow, 11px 8px 3px rgb(0, 199, 0), 13px 10px 3px rgb(0, 102, 255);
