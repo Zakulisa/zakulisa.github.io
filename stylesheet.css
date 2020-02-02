@@ -6,11 +6,11 @@ body {
     line-height: 1.5;
     padding-top: 32px;
     padding-bottom: 32px;
-    background-color: rgb(196, 94, 255);
+    background-color: rgb(186, 125, 255);
   }
   #header {
     text-align: center;
-    color: rgb(196, 94, 255);
+    color: rgb(186, 125, 255);
     text-shadow: 4px 1px 3px white, 5px 2px 3px red, 7px 4px 3px orange, 9px 6px 3px yellow, 11px 8px 3px rgb(0, 199, 0), 13px 10px 3px rgb(0, 102, 255);
   }
   /* BEGIN (write your solution here) */
