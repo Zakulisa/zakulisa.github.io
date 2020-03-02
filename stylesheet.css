@@ -21,14 +21,17 @@ body {
     color: white;
   }
   #week {
+    text-align: center;
     color: white;
     text-shadow: 1px 1px 1px white;
   }
   #money {
+    text-align: center;
     color: white;
     text-shadow: 1px 1px 1px white;
   }
   #years {
+    text-align: center;
     color: white;
     text-shadow: 1px 1px 1px white;
   }
